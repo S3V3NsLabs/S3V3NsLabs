@@ -1,5 +1,5 @@
 I go by s3v3n @S3V3NsLabs, & i am here to get down with the git crowd. I have an interest in the security of things, how stuff works deep down. 
-Just getting my hands dirty, they've been clean in the IT scene for too long. I'm here to put up my code as i go and add more to what i know. 
+Just getting my hands dirty. 
 
 - 📫 Contact: heimdal@s3v3n.io
 
